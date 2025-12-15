@@ -1,2 +1,0 @@
-# gabut
-my bored project 
